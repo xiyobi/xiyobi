@@ -41,5 +41,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiyobi&" alt="xiyobi" /></p>
 ## WakaTime Ishlash Statistikasi
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=YoqubovShehroz)](https://wakatime.com/@YoqubovShehroz)
-
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xiyobi)](https://wakatime.com/@xiyobi)
