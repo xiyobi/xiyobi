@@ -42,3 +42,6 @@
 ## WakaTime Ishlash Statistikasi
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xiyobi)](https://wakatime.com/@xiyobi)
+
+
+![snake gif](https://github.com/xiyobi/xiyobi/blob/output/github-contribution-grid-snake.svg)
