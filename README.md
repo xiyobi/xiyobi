@@ -26,8 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shehroz yoqubov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehroz yoqubov" height="30" width="40" /></a>
-<a href="https://instagram.com/shehroz__04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehroz__04" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xiyobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xiyobi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/xiyobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Yoqubov_Shehroz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,5 +42,3 @@
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=xiyobi)](https://wakatime.com/@xiyobi)
 
-
-![snake gif](https://github.com/xiyobi/xiyobi/blob/output/github-contribution-grid-snake.svg)
