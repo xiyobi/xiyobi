@@ -78,3 +78,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiyobi" alt="GitHub Streak" />
 </p>
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yoqubov Shehroz)
