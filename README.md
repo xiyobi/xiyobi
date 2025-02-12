@@ -2,19 +2,19 @@
 <h3 align="center">I'm a developer from Uzbekistan</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xiyobi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yoqubovDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xiyobi" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yoqubovDev" alt="GitHub Trophies" />
   </a>
 </p>
 
-- 🔭 I’m currently working on [Todo App](https://github.com/xiyobi/Todo_app)  
+- 🔭 I’m currently working on [Todo App](https://github.com/yoqubovDev/quiz-api-ui)  
 - 🌱 I’m currently learning **PHP and English**  
 - 🤝 I’m looking for help with **a job in PHP programming**  
-- 👨‍💻 All my projects are available at [https://github.com/xiyobi](https://github.com/xiyobi)  
+- 👨‍💻 All my projects are available at [https://github.com/xiyobi](https://github.com/yoqubovDev)  
 - 📝 I regularly write articles on [https://t.me/Yoqubov_Shehroz_blog](https://t.me/Yoqubov_Shehroz_blog)  
 - 💬 Ask me about **PHP, Python, C, C++, MySQL**  
 - 📫 How to reach me: **xiyobidasturchi0011@gmail.com**  
